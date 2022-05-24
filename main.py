@@ -1,3 +1,10 @@
+# ############################################################################################
+# MacOS menubar password generator
+#
+# create by JustInTime in 2022
+#
+# based on : https://camillovisini.com/article/create-macos-menu-bar-app-pomodoro/
+# ############################################################################################
 import rumps
 import string, random
 import pyperclip
